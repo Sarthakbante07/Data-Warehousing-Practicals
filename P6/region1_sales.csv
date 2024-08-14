@@ -1,0 +1,4 @@
+OrderID,Product,Quantity,Price,Date
+1,Widget,5,25.00,2024-01-01
+2,Widget,3,25.00,2024-01-03
+3,Gadget,7,50.00,2024-01-04
